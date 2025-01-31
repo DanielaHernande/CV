@@ -2,3 +2,15 @@ body {
     color: aliceblue;
     background-color: #333;
 }
+
+h4 {
+    color: green;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:hover {
+    color: palevioletred
+}
